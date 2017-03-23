@@ -1,1 +1,2 @@
 valam
+# gyakorlat2
